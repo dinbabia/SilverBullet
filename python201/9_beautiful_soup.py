@@ -1,3 +1,10 @@
+"""
+References
+-----------------
+https://en.wikipedia.org/wiki/Document_Object_Model
+https://en.wikipedia.org/wiki/Web_scraping
+
+"""
 import requests
 
 
